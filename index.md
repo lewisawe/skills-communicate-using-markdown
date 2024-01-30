@@ -10,3 +10,9 @@
 # Initialize a new Git repository
 git init
 ```
+
+#### Addinng a task list
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
